@@ -1,0 +1,19 @@
+.create-button {
+  float: right;
+  margin: 15px;
+}
+
+.search-field {
+  float: left;
+  margin: 15px;
+  width: 450px;
+}
+
+.search-btn {
+  width: 130px;
+}
+
+.table {
+  max-height: 55vh;
+  overflow-y: auto;
+}
